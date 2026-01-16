@@ -15,10 +15,10 @@ Evaluate model performance using appropriate metrics for regression and classifi
 
 🔹 Regression Models
 
-Linear Regression
+* Linear Regression
 Used to predict the continuous wine quality score based on input features.
 
-KNN Regressor
+* KNN Regressor
 Predicts wine quality by averaging the quality of the nearest neighboring samples.
 
 🔹 Classification Models
